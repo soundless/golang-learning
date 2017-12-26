@@ -8,7 +8,7 @@ func Test_reverse(t *testing.T) {
 
     for i := 0; i < len(tests); i++ {
         if result := reverse(tests[i]); result != results[i] {
-            t.Fatalf("Results is not %v but %v", results[i], result)
+            t.Fatalf("expected: %v, actual: %v", results[i], result)
         }
     }
 }
