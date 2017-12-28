@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_longestPalindrome(t *testing.T) {
+func Test_5_longestPalindrome(t *testing.T) {
 	tests := []string{
 		"a",
 		"aaaaa",

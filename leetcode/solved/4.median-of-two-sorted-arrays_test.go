@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_findMedianSortedArray(t *testing.T) {
+func Test_4_findMedianSortedArray(t *testing.T) {
 	a1 := []int{1, 2}
 	a2 := []int{3, 4}
 	r1 := findMedianSortedArrays(a1, a2)

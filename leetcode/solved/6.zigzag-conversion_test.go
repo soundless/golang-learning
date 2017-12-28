@@ -7,7 +7,7 @@ type Pair struct {
     b int
 }
 
-func Test_convert(t *testing.T) {
+func Test_6_convert(t *testing.T) {
     tests := []Pair{
         {"ABCDEFGHIJKLMNOPQRSTUVWXYZ", 1},
         {"ABCDEFGHIJKLMNOPQRSTUVWXYZ", 2},

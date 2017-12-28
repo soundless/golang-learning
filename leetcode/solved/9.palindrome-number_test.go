@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_isPalindrome(t *testing.T) {
+func Test_9_isPalindrome(t *testing.T) {
     tests := []int{12321, 1221, -1, -12321, 0}
     results := []bool{true, true, false, false, true}
 

@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_addTwoNumbers(t *testing.T) {
+func Test_2_addTwoNumbers(t *testing.T) {
 	var l1 *ListNode = &ListNode{Val: 2, Next: &ListNode{Val: 4, Next: &ListNode{3, nil}}}
 	var l2 *ListNode = &ListNode{Val: 5, Next: &ListNode{Val: 6, Next: &ListNode{4, nil}}}
 

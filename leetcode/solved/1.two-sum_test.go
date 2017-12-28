@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_2Sum(t *testing.T) {
+func Test_1_2Sum(t *testing.T) {
 	nums := []int{7, 11, 2, 15}
 	var indexes []int
 	indexes = twoSum(nums, 9)
