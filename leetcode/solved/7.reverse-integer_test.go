@@ -2,7 +2,7 @@ package gogo
 
 import "testing"
 
-func Test_reverse(t *testing.T) {
+func Test_7_reverse(t *testing.T) {
     tests := []int{321, -123, 1234567899, -1234567899, 0, 100, 10000}
     results := []int{123, -321, 0, 0, 0, 1, 1}
 

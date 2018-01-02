@@ -17,6 +17,28 @@
  * Note: You may not slant the container and n is at least 2.
  * 
  */
+
+package gogo
+
 func maxArea(height []int) int {
-    
+    if len(height) < 2 {
+        return 0;
+    }
+
+    volume := 0
+    left := 0
+    right := len(height) - 1
+    for left < right {
+        temp := MinInt(height[left], height[right]) * (right - left)
+        if temp > volume {
+            volume = temp
+        }
+        if height[left] < height[right] {
+            left++
+        } else {
+            right--
+        }
+    }
+
+    return volume
 }
