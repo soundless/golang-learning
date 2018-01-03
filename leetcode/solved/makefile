@@ -1,6 +1,8 @@
 all:
 	go test -cover ./...
-debug:
+test:
 	go test -v ./...
 bench:
 	go test -v -bench . -benchmem ./...
+git-%:
+	git add -u . && git commit -m "$(@:git-%=%)" && git push origin master
