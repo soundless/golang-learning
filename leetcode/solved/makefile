@@ -5,4 +5,4 @@ test:
 bench:
 	go test -v -bench . -benchmem ./...
 git-%:
-	git add -u . && git commit -m "$(@:git-%=%)" && git push origin master
+	git add . && git commit -m "$(@:git-%=%)" && git push origin master
