@@ -34,32 +34,32 @@ package gogo
 import "bytes"
 
 func convert(s string, numRows int) string {
-    if numRows == 1 || len(s) <= numRows {
-        return s
-    }
+	if numRows == 1 || len(s) <= numRows {
+		return s
+	}
 
-    result := bytes.Buffer{}
-    // pace
-    p := numRows * 2 - 2
+	result := bytes.Buffer{}
+	// pace
+	p := numRows*2 - 2
 
-    for i := 0; i < len(s); i += p {
-        result.WriteByte(s[i])
-    }
+	for i := 0; i < len(s); i += p {
+		result.WriteByte(s[i])
+	}
 
-    for r := 1; r <= numRows - 2; r++ {
-        result.WriteByte(s[r])
+	for r := 1; r <= numRows-2; r++ {
+		result.WriteByte(s[r])
 
-        for k := p; k - r < len(s); k += p {
-            result.WriteByte(s[k-r])
-            if k + r < len(s) {
-                result.WriteByte(s[k + r])
-            }
-        }
-    }
+		for k := p; k-r < len(s); k += p {
+			result.WriteByte(s[k-r])
+			if k+r < len(s) {
+				result.WriteByte(s[k+r])
+			}
+		}
+	}
 
-    for i := numRows - 1; i < len(s); i += p {
-        result.WriteByte(s[i])
-    }
+	for i := numRows - 1; i < len(s); i += p {
+		result.WriteByte(s[i])
+	}
 
-    return result.String()
+	return result.String()
 }

@@ -28,7 +28,7 @@ package gogo
 
 func twoSum(nums []int, target int) []int {
 	indexes := make([]int, 2)
-	for i, _ := range nums {
+	for i := range nums {
 		for j := i + 1; j < len(nums); j++ {
 			if nums[i]+nums[j] == target {
 				indexes[0] = i + 1

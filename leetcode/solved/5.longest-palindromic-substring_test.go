@@ -10,9 +10,9 @@ func Test_5_longestPalindrome(t *testing.T) {
 		"abcfcdfgfdc",
 		"babad",
 		"cbbd",
-        "ab",
-        "12212321",
-        "babcbabcbaccba",
+		"ab",
+		"12212321",
+		"babcbabcbaccba",
 	}
 	results := []string{
 		"a",
@@ -21,9 +21,9 @@ func Test_5_longestPalindrome(t *testing.T) {
 		"cdfgfdc",
 		"bab",
 		"bb",
-        "a",
-        "12321",
-        "abcbabcba",
+		"a",
+		"12321",
+		"abcbabcba",
 	}
 	for i := 0; i < len(tests); i++ {
 		if result := longestPalindrome(tests[i]); result != results[i] {
