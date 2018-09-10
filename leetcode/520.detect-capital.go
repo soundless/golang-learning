@@ -45,6 +45,9 @@
  * latin letters.
  * 
  */
+
+package gogo
+
 func detectCapitalUse(word string) bool {
     
 }

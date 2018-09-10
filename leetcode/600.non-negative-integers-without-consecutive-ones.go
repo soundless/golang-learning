@@ -35,6 +35,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findIntegers(num int) int {
     
 }

@@ -55,6 +55,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func rob(root *TreeNode) int {
     
 }

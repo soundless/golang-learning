@@ -9,6 +9,9 @@
  * Testcase Example:  '16'
  *
  * 
+
+package gogo
+
  * Given an integer (signed 32 bits), write a function to check whether it is a
  * power of 4.
  * 
@@ -22,6 +25,9 @@
  * Credits:Special thanks to @yukuairoy  for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func isPowerOfFour(num int) bool {
     
 }

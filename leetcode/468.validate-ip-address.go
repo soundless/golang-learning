@@ -9,6 +9,9 @@
  * Testcase Example:  '"172.16.254.1"'
  *
  * 
+
+package gogo
+
  * Write a function to check whether an input string is a valid IPv4 address or
  * IPv6 address or neither.
  * 
@@ -83,6 +86,9 @@
  * 
  * 
  */
+
+package gogo
+
 func validIPAddress(IP string) string {
     
 }

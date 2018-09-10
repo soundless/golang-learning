@@ -42,6 +42,9 @@
  * 
  * 
  */
+
+package gogo
+
 func repeatedSubstringPattern(s string) bool {
     
 }

@@ -32,6 +32,9 @@
  * always be only one unique minimum window in S.
  * 
  */
+
+package gogo
+
 func minWindow(s string, t string) string {
     
 }

@@ -19,6 +19,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func sortedArrayToBST(nums []int) *TreeNode {
     
 }

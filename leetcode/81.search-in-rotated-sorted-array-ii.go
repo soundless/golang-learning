@@ -20,10 +20,16 @@
  * 
  * (i.e., 0 1 2 4 5 6 7 might become 4 5 6 7 0 1 2).
  * 
+
+package gogo
+
  * Write a function to determine if a given target is in the array.
  * 
  * The array may contain duplicates.
  */
+
+package gogo
+
 func search(nums []int, target int) bool {
     
 }

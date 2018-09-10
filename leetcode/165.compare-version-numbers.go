@@ -25,6 +25,9 @@
  * Credits:Special thanks to @ts for adding this problem and creating all test
  * cases.
  */
+
+package gogo
+
 func compareVersion(version1 string, version2 string) int {
     
 }

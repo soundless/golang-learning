@@ -36,6 +36,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func hasPathSum(root *TreeNode, sum int) bool {
     
 }

@@ -22,6 +22,9 @@
  * return 5.
  * 
  */
+
+package gogo
+
 func lengthOfLastWord(s string) int {
     
 }

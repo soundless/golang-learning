@@ -20,6 +20,9 @@
  * 
  * 
  */
+
+package gogo
+
 func countSegments(s string) int {
     
 }

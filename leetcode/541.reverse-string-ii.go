@@ -29,6 +29,9 @@
  * ⁠Length of the given string and k will in the range [1, 10000]
  * 
  */
+
+package gogo
+
 func reverseStr(s string, k int) string {
     
 }

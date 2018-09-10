@@ -15,6 +15,9 @@
  * 
  * 
  */
+
+package gogo
+
 func totalNQueens(n int) int {
     
 }

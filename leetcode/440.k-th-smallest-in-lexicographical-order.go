@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findKthNumber(n int, k int) int {
     
 }

@@ -32,6 +32,9 @@
  * is the total number of rows in the triangle.
  * 
  */
+
+package gogo
+
 func minimumTotal(triangle [][]int) int {
     
 }

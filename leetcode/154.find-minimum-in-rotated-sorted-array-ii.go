@@ -24,6 +24,9 @@
  * 
  * The array may contain duplicates.
  */
+
+package gogo
+
 func findMin(nums []int) int {
     
 }

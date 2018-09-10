@@ -49,6 +49,9 @@
  * 
  * 
  */
+
+package gogo
+
 func PredictTheWinner(nums []int) bool {
     
 }

@@ -21,6 +21,9 @@
  * return [3, 4].
  * 
  */
+
+package gogo
+
 func searchRange(nums []int, target int) []int {
     
 }

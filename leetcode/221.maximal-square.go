@@ -26,6 +26,9 @@
  * Credits:Special thanks to @Freezen for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func maximalSquare(matrix [][]byte) int {
     
 }

@@ -47,6 +47,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func findTilt(root *TreeNode) int {
     
 }

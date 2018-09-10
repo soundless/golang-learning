@@ -9,6 +9,9 @@
  * Testcase Example:  '27'
  *
  * 
+
+package gogo
+
  * ⁠   Given an integer, write a function to determine if it is a power of
  * three.
  * 
@@ -20,6 +23,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func isPowerOfThree(n int) bool {
     
 }

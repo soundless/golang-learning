@@ -64,6 +64,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findMinMoves(machines []int) int {
     
 }

@@ -32,6 +32,9 @@
  * return 10.
  * 
  */
+
+package gogo
+
 func largestRectangleArea(heights []int) int {
     
 }

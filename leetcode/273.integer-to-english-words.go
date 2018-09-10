@@ -20,6 +20,9 @@
  * 1234567 -> "One Million Two Hundred Thirty Four Thousand Five Hundred Sixty
  * Seven"
  */
+
+package gogo
+
 func numberToWords(num int) string {
     
 }

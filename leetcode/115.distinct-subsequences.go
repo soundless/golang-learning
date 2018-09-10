@@ -28,6 +28,9 @@
  * Return 3.
  * 
  */
+
+package gogo
+
 func numDistinct(s string, t string) int {
     
 }

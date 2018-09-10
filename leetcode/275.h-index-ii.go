@@ -13,6 +13,9 @@
  * order? Could you optimize your algorithm?
  * 
  */
+
+package gogo
+
 func hIndex(citations []int) int {
     
 }

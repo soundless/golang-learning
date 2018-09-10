@@ -26,6 +26,9 @@
  * Note: You may assume the string contain only lowercase letters.
  * 
  */
+
+package gogo
+
 func firstUniqChar(s string) int {
     
 }

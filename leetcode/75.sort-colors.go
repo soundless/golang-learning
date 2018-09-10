@@ -21,6 +21,9 @@
  * 
  * 
  * Note:
+
+package gogo
+
  * You are not suppose to use the library's sort function for this problem.
  * 
  * 
@@ -36,6 +39,9 @@
  * 
  * 
  */
+
+package gogo
+
 func sortColors(nums []int)  {
     
 }

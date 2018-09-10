@@ -46,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func toHex(num int) string {
     
 }

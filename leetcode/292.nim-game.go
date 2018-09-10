@@ -17,6 +17,9 @@
  * 
  * 
  * Both of you are very clever and have optimal strategies for the game. Write
+
+package gogo
+
  * a function to determine whether you can win the game given the number of
  * stones in the heap.
  * 
@@ -30,6 +33,9 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func canWinNim(n int) bool {
     
 }

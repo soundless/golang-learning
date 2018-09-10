@@ -34,6 +34,9 @@
  * The length of the given binary array will not exceed 50,000.
  * 
  */
+
+package gogo
+
 func findMaxLength(nums []int) int {
     
 }

@@ -27,6 +27,9 @@
  * 
  * 
  * 
+
+package gogo
+
  * After running your function, the board should be:
  * 
  * X X X X
@@ -36,6 +39,9 @@
  * 
  * 
  */
+
+package gogo
+
 func solve(board [][]byte)  {
     
 }

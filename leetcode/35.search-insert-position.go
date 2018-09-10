@@ -22,6 +22,9 @@
  * [1,3,5,6], 0 → 0
  * 
  */
+
+package gogo
+
 func searchInsert(nums []int, target int) int {
     
 }

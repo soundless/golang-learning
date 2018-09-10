@@ -37,6 +37,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func rightSideView(root *TreeNode) []int {
     
 }

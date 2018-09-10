@@ -17,6 +17,9 @@
  * Credits:Special thanks to @ts for adding this problem and creating all test
  * cases.
  */
+
+package gogo
+
 func majorityElement(nums []int) int {
     
 }

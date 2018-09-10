@@ -17,11 +17,17 @@
  * Given sorted array nums = [1,1,1,2,2,3],
  * 
  * 
+
+package gogo
+
  * Your function should return length = 5, with the first five elements of nums
  * being 1, 1, 2, 2 and 3. It doesn't matter what you leave beyond the new
  * length.
  * 
  */
+
+package gogo
+
 func removeDuplicates(nums []int) int {
     
 }

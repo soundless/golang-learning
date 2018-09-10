@@ -17,6 +17,9 @@
  * m + n) to hold additional elements from nums2. The number of elements
  * initialized in nums1 and nums2 are m and n respectively.
  */
+
+package gogo
+
 func merge(nums1 []int, m int, nums2 []int, n int)  {
     
 }

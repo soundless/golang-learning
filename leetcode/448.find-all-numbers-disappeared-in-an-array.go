@@ -26,6 +26,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findDisappearedNumbers(nums []int) []int {
     
 }

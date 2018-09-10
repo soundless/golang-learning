@@ -8,6 +8,9 @@
  * Total Submissions: 
  * Testcase Example:  '"hello"'
  *
+
+package gogo
+
  * Write a function that takes a string as input and reverse only the vowels of
  * a string.
  * 
@@ -26,6 +29,9 @@
  * The vowels does not include the letter "y".
  * 
  */
+
+package gogo
+
 func reverseVowels(s string) string {
     
 }

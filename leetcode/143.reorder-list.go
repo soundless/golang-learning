@@ -27,6 +27,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func reorderList(head *ListNode)  {
     
 }

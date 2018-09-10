@@ -43,6 +43,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func diameterOfBinaryTree(root *TreeNode) int {
     
 }

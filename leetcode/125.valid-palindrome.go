@@ -27,6 +27,9 @@
  * For the purpose of this problem, we define empty string as valid palindrome.
  * 
  */
+
+package gogo
+
 func isPalindrome(s string) bool {
     
 }

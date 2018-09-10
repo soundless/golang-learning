@@ -71,6 +71,9 @@
  *	   End   int
  * }
  */
+
+package gogo
+
 func findRightInterval(intervals []Interval) []int {
     
 }

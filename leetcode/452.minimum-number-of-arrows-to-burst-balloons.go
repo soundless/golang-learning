@@ -35,6 +35,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findMinArrowShots(points [][]int) int {
     
 }

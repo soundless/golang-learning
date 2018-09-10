@@ -37,6 +37,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func minPatches(nums []int, n int) int {
     
 }

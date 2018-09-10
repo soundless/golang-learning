@@ -35,6 +35,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func convertBST(root *TreeNode) *TreeNode {
     
 }

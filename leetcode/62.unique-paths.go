@@ -24,6 +24,9 @@
  * 
  * Note: m and n will be at most 100.
  */
+
+package gogo
+
 func uniquePaths(m int, n int) int {
     
 }

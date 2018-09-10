@@ -8,6 +8,9 @@
  * Total Submissions: 
  * Testcase Example:  '"hello"'
  *
+
+package gogo
+
  * Write a function that takes a string as input and returns the string
  * reversed.
  * 
@@ -16,6 +19,9 @@
  * Given s = "hello", return "olleh".
  * 
  */
+
+package gogo
+
 func reverseString(s string) string {
     
 }

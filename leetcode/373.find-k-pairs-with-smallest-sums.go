@@ -55,6 +55,9 @@
  * Credits:Special thanks to @elmirap and @StefanPochmann for adding this
  * problem and creating all test cases.
  */
+
+package gogo
+
 func kSmallestPairs(nums1 []int, nums2 []int, k int) [][]int {
     
 }

@@ -23,6 +23,9 @@
  * Return 6.
  * 
  */
+
+package gogo
+
 func maximalRectangle(matrix [][]byte) int {
     
 }

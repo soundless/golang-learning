@@ -11,6 +11,9 @@
  * Given an integer array nums, find the sum of the elements between indices i
  * and j (i ≤ j), inclusive.
  * 
+
+package gogo
+
  * The update(i, val) function modifies nums by updating the element at index i
  * to val.
  * 
@@ -26,7 +29,13 @@
  * 
  * Note:
  * 
+
+package gogo
+
  * The array is only modifiable by the update function.
+
+package gogo
+
  * You may assume the number of calls to update and sumRange function is
  * distributed evenly.
  * 
@@ -37,15 +46,24 @@ type NumArray struct {
 }
 
 
+
+package gogo
+
 func Constructor(nums []int) NumArray {
     
 }
 
 
+
+package gogo
+
 func (this *NumArray) Update(i int, val int)  {
     
 }
 
+
+
+package gogo
 
 func (this *NumArray) SumRange(i int, j int) int {
     

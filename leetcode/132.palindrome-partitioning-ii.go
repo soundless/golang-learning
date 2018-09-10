@@ -21,6 +21,9 @@
  * using 1 cut.
  * 
  */
+
+package gogo
+
 func minCut(s string) int {
     
 }

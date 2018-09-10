@@ -37,6 +37,9 @@
  * result in no division by zero and there is no contradiction.
  * 
  */
+
+package gogo
+
 func calcEquation(equations [][]string, values []float64, queries [][]string) []float64 {
     
 }

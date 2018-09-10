@@ -33,6 +33,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findDiagonalOrder(matrix [][]int) []int {
     
 }

@@ -34,6 +34,9 @@
  * 
  * 
  */
+
+package gogo
+
 func maxProfit(prices []int) int {
     
 }

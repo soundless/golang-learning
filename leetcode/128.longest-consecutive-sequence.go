@@ -22,6 +22,9 @@
  * Your algorithm should run in O(n) complexity.
  * 
  */
+
+package gogo
+
 func longestConsecutive(nums []int) int {
     
 }

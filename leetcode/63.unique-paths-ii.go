@@ -28,6 +28,9 @@
  * 
  * Note: m and n will be at most 100.
  */
+
+package gogo
+
 func uniquePathsWithObstacles(obstacleGrid [][]int) int {
     
 }

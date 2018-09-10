@@ -42,6 +42,9 @@
  * 
  * 
  */
+
+package gogo
+
 func countArrangement(N int) int {
     
 }

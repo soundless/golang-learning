@@ -9,6 +9,9 @@
  * Testcase Example:  '[]\n[]'
  *
  * 
+
+package gogo
+
  * Given two arrays, write a function to compute their intersection.
  * 
  * 
@@ -35,6 +38,9 @@
  * 
  * 
  */
+
+package gogo
+
 func intersect(nums1 []int, nums2 []int) []int {
     
 }

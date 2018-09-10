@@ -18,6 +18,9 @@
  * 
  * You may assume no duplicate exists in the array.
  */
+
+package gogo
+
 func search(nums []int, target int) int {
     
 }

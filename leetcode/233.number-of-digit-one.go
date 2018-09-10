@@ -18,6 +18,9 @@
  * 13.
  * 
  */
+
+package gogo
+
 func countDigitOne(n int) int {
     
 }

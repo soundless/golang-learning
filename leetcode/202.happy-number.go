@@ -28,6 +28,9 @@
  * Credits:Special thanks to @mithmatt and @ts for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func isHappy(n int) bool {
     
 }

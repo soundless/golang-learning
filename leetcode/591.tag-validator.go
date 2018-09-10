@@ -34,6 +34,9 @@
  * The cdata has the following format : <![CDATA[CDATA_CONTENT]]>. The range of
  * CDATA_CONTENT is defined as the characters between <![CDATA[ and the first
  * subsequent ]]>. 
+
+package gogo
+
  * CDATA_CONTENT may contain any characters. The function of cdata is to forbid
  * the validator to parse CDATA_CONTENT, so even it has some characters that
  * can be parsed as tag (no matter valid or invalid), you should treat it as
@@ -102,6 +105,9 @@
  * 
  * 
  */
+
+package gogo
+
 func isValid(code string) bool {
     
 }

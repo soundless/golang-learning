@@ -20,6 +20,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func isPalindrome(head *ListNode) bool {
     
 }

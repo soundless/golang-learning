@@ -52,6 +52,9 @@
  *     Y int
  * }
  */
+
+package gogo
+
 func outerTrees(points []Point) []Point {
     
 }

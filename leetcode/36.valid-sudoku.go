@@ -23,6 +23,9 @@
  * the filled cells need to be validated.
  * 
  */
+
+package gogo
+
 func isValidSudoku(board [][]byte) bool {
     
 }

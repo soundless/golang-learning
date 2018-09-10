@@ -33,6 +33,9 @@
  * word = "ABCB", -> returns false.
  * 
  */
+
+package gogo
+
 func exist(board [][]byte, word string) bool {
     
 }

@@ -42,15 +42,24 @@ type SummaryRanges struct {
 
 
 /** Initialize your data structure here. */
+
+package gogo
+
 func Constructor() SummaryRanges {
 
 }
 
 
+
+package gogo
+
 func (this *SummaryRanges) Addnum(val int)  {
 
 }
 
+
+
+package gogo
 
 func (this *SummaryRanges) Getintervals() []Interval {
 

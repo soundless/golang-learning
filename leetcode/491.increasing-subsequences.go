@@ -31,6 +31,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findSubsequences(nums []int) [][]int {
     
 }

@@ -42,6 +42,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func zigzagLevelOrder(root *TreeNode) [][]int {
     
 }

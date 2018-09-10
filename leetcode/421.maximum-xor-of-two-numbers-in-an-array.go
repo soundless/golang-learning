@@ -25,6 +25,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findMaximumXOR(nums []int) int {
     
 }

@@ -27,6 +27,9 @@
  * 
  * 
  */
+
+package gogo
+
 func permute(nums []int) [][]int {
     
 }

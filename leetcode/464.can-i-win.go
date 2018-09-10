@@ -46,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func canIWin(maxChoosableInteger int, desiredTotal int) bool {
     
 }

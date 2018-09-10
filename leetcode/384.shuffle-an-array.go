@@ -34,18 +34,27 @@ type Solution struct {
 }
 
 
+
+package gogo
+
 func Constructor(nums []int) Solution {
     
 }
 
 
 /** Resets the array to its original configuration and return it. */
+
+package gogo
+
 func (this *Solution) Reset() []int {
     
 }
 
 
 /** Returns a random shuffling of the array. */
+
+package gogo
+
 func (this *Solution) Shuffle() []int {
     
 }

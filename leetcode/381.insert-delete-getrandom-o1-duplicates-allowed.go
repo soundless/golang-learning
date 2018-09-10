@@ -57,24 +57,36 @@ type RandomizedCollection struct {
 
 
 /** Initialize your data structure here. */
+
+package gogo
+
 func Constructor() RandomizedCollection {
     
 }
 
 
 /** Inserts a value to the collection. Returns true if the collection did not already contain the specified element. */
+
+package gogo
+
 func (this *RandomizedCollection) Insert(val int) bool {
     
 }
 
 
 /** Removes a value from the collection. Returns true if the collection contained the specified element. */
+
+package gogo
+
 func (this *RandomizedCollection) Remove(val int) bool {
     
 }
 
 
 /** Get a random element from the collection. */
+
+package gogo
+
 func (this *RandomizedCollection) GetRandom() int {
     
 }

@@ -27,6 +27,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func recoverTree(root *TreeNode)  {
     
 }

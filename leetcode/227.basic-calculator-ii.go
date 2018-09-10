@@ -25,12 +25,18 @@
  * 
  * 
  * 
+
+package gogo
+
  * Note: Do not use the eval built-in library function.
  * 
  * 
  * Credits:Special thanks to @ts for adding this problem and creating all test
  * cases.
  */
+
+package gogo
+
 func calculate(s string) int {
     
 }

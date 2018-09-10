@@ -48,6 +48,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findRadius(houses []int, heaters []int) int {
     
 }

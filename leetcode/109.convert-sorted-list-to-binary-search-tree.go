@@ -26,6 +26,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func sortedListToBST(head *ListNode) *TreeNode {
     
 }

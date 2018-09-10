@@ -29,6 +29,9 @@
  * The solution is guaranteed to be unique.
  * 
  */
+
+package gogo
+
 func canCompleteCircuit(gas []int, cost []int) int {
     
 }

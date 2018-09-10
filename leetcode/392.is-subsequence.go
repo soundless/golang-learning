@@ -47,6 +47,9 @@
  * Credits:Special thanks to @pbrother for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func isSubsequence(s string, t string) bool {
     
 }

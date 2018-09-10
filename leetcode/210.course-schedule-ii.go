@@ -55,6 +55,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findOrder(numCourses int, prerequisites [][]int) []int {
     
 }

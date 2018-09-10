@@ -18,6 +18,9 @@
  * 
  * You may imagine that num[-1] = num[n] = -∞.
  * 
+
+package gogo
+
  * For example, in array [1, 2, 3, 1], 3 is a peak element and your function
  * should return the index number 2.
  * 
@@ -30,6 +33,9 @@
  * Credits:Special thanks to @ts for adding this problem and creating all test
  * cases.
  */
+
+package gogo
+
 func findPeakElement(nums []int) int {
     
 }

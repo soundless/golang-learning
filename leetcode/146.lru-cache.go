@@ -45,15 +45,24 @@ type LRUCache struct {
 }
 
 
+
+package gogo
+
 func Constructor(capacity int) LRUCache {
     
 }
 
 
+
+package gogo
+
 func (this *LRUCache) Get(key int) int {
     
 }
 
+
+
+package gogo
 
 func (this *LRUCache) Put(key int, value int)  {
     

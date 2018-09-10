@@ -36,6 +36,9 @@
  *	   End   int
  * }
  */
+
+package gogo
+
 func insert(intervals []Interval, newInterval Interval) []Interval {
     
 }

@@ -43,6 +43,9 @@
  * water trapped is 4.
  * 
  */
+
+package gogo
+
 func trapRainWater(heightMap [][]int) int {
     
 }

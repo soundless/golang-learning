@@ -18,6 +18,9 @@
  * the contiguous subarray [2,3] has the largest product = 6.
  * 
  */
+
+package gogo
+
 func maxProduct(nums []int) int {
     
 }

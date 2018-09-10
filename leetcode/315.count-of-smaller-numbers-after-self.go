@@ -30,6 +30,9 @@
  * Return the array [2, 1, 1, 0].
  * 
  */
+
+package gogo
+
 func countSmaller(nums []int) []int {
     
 }

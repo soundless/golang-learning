@@ -58,6 +58,9 @@
  * 
  * 
  */
+
+package gogo
+
 func fractionAddition(expression string) string {
     
 }

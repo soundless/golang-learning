@@ -48,6 +48,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func maxNumber(nums1 []int, nums2 []int, k int) []int {
     
 }

@@ -46,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func makesquare(nums []int) bool {
     
 }

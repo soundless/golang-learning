@@ -10,6 +10,9 @@
  *
  * 
  * You are given coins of different denominations and a total amount of money
+
+package gogo
+
  * amount. Write a function to compute the fewest number of coins that you need
  * to make up that amount. If that amount of money cannot be made up by any
  * combination of the coins, return -1.
@@ -35,6 +38,9 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func coinChange(coins []int, amount int) int {
     
 }

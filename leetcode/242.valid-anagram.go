@@ -8,6 +8,9 @@
  * Total Submissions: 
  * Testcase Example:  '""\n""'
  *
+
+package gogo
+
  * Given two strings s and t, write a function to determine if t is an anagram
  * of s. 
  * 
@@ -23,6 +26,9 @@
  * What if the inputs contain unicode characters? How would you adapt your
  * solution to such case?
  */
+
+package gogo
+
 func isAnagram(s string, t string) bool {
     
 }

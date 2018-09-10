@@ -53,6 +53,9 @@
  * 
  * 
  */
+
+package gogo
+
 func updateMatrix(matrix [][]int) [][]int {
     
 }

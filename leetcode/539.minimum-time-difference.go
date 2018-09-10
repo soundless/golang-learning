@@ -26,6 +26,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findMinDifference(timePoints []string) int {
     
 }

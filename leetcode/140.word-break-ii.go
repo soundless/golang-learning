@@ -36,6 +36,9 @@
  * changes.
  * 
  */
+
+package gogo
+
 func wordBreak(s string, wordDict []string) []string {
     
 }

@@ -25,6 +25,9 @@
  * In this case, 6 units of rain water (blue section) are being trapped. Thanks
  * Marcos for contributing this image!
  */
+
+package gogo
+
 func trap(height []int) int {
     
 }

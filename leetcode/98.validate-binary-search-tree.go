@@ -49,6 +49,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func isValidBST(root *TreeNode) bool {
     
 }

@@ -20,6 +20,9 @@
  * Could you optimize your algorithm to use only O(k) extra space?
  * 
  */
+
+package gogo
+
 func getRow(rowIndex int) []int {
     
 }

@@ -16,6 +16,9 @@
  * needle is not part of haystack.
  * 
  */
+
+package gogo
+
 func strStr(haystack string, needle string) int {
     
 }

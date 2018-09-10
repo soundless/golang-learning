@@ -26,6 +26,9 @@
  * 
  * 
  */
+
+package gogo
+
 func evalRPN(tokens []string) int {
     
 }

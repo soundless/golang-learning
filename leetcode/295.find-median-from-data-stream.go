@@ -43,15 +43,24 @@ type MedianFinder struct {
 
 
 /** initialize your data structure here. */
+
+package gogo
+
 func Constructor() MedianFinder {
     
 }
 
 
+
+package gogo
+
 func (this *MedianFinder) AddNum(num int)  {
     
 }
 
+
+
+package gogo
 
 func (this *MedianFinder) FindMedian() float64 {
     

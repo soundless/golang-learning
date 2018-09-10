@@ -32,6 +32,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func generateTrees(n int) []*TreeNode {
     
 }

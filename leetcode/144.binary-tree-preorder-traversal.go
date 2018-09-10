@@ -35,6 +35,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func preorderTraversal(root *TreeNode) []int {
     
 }

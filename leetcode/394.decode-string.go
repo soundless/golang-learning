@@ -33,6 +33,9 @@
  * 
  * 
  */
+
+package gogo
+
 func decodeString(s string) string {
     
 }

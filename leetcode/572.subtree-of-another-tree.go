@@ -64,6 +64,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func isSubtree(s *TreeNode, t *TreeNode) bool {
     
 }

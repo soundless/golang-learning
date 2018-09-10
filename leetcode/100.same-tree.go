@@ -9,6 +9,9 @@
  * Testcase Example:  '[]\n[]'
  *
  * 
+
+package gogo
+
  * Given two binary trees, write a function to check if they are equal or
  * not.
  * 
@@ -25,6 +28,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func isSameTree(p *TreeNode, q *TreeNode) bool {
     
 }

@@ -32,6 +32,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findRelativeRanks(nums []int) []string {
     
 }

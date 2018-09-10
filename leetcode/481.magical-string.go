@@ -58,6 +58,9 @@
  * 
  * 
  */
+
+package gogo
+
 func magicalString(n int) int {
     
 }

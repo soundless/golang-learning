@@ -58,6 +58,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findCircleNum(M [][]int) int {
     
 }

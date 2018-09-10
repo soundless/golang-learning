@@ -24,6 +24,9 @@
  * [2,3]
  * 
  */
+
+package gogo
+
 func findDuplicates(nums []int) []int {
     
 }

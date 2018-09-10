@@ -22,6 +22,9 @@
  * Your algorithm should run in O(n) time and uses constant space.
  * 
  */
+
+package gogo
+
 func firstMissingPositive(nums []int) int {
     
 }

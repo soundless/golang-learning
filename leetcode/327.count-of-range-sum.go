@@ -32,6 +32,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func countRangeSum(nums []int, lower int, upper int) int {
     
 }

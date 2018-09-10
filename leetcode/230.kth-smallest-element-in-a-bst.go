@@ -8,6 +8,9 @@
  * Total Submissions: 
  * Testcase Example:  '[1]\n1'
  *
+
+package gogo
+
  * Given a binary search tree, write a function kthSmallest to find the kth
  * smallest element in it.
  * 
@@ -30,6 +33,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func kthSmallest(root *TreeNode, k int) int {
     
 }

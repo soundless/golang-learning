@@ -45,6 +45,9 @@
  * 
  * 
  */
+
+package gogo
+
 func distributeCandies(candies []int) int {
     
 }

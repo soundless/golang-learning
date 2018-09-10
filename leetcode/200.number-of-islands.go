@@ -23,6 +23,9 @@
  * Credits:Special thanks to @mithmatt for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func numIslands(grid [][]byte) int {
     
 }

@@ -28,6 +28,9 @@
  * A = [3,2,1,0,4], return false.
  * 
  */
+
+package gogo
+
 func canJump(nums []int) bool {
     
 }

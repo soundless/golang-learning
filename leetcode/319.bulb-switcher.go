@@ -29,6 +29,9 @@
  * So you should return 1, because there is only one bulb is on.
  * 
  */
+
+package gogo
+
 func bulbSwitch(n int) int {
     
 }

@@ -44,6 +44,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findLongestWord(s string, d []string) string {
     
 }

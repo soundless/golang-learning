@@ -24,6 +24,9 @@
  * ]
  * 
  */
+
+package gogo
+
 func generateMatrix(n int) [][]int {
     
 }

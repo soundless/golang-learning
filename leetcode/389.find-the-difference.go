@@ -29,6 +29,9 @@
  * 'e' is the letter that was added.
  * 
  */
+
+package gogo
+
 func findTheDifference(s string, t string) byte {
     
 }

@@ -25,11 +25,20 @@
  * 
  * 
  * Update (2015-02-10):
+
+package gogo
+
  * The signature of the C++ function had been updated. If you still see your
+
+package gogo
+
  * function signature accepts a const char * argument, please click the reload
  * button  to reset your code definition.
  * 
  */
+
+package gogo
+
 func isNumber(s string) bool {
     
 }

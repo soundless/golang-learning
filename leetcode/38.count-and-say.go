@@ -47,6 +47,9 @@
  * 
  * 
  */
+
+package gogo
+
 func countAndSay(n int) string {
     
 }

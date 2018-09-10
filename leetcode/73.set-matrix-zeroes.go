@@ -25,6 +25,9 @@
  * 
  * 
  */
+
+package gogo
+
 func setZeroes(matrix [][]int)  {
     
 }

@@ -35,6 +35,9 @@
  * The number of ways decoding "12" is 2.
  * 
  */
+
+package gogo
+
 func numDecodings(s string) int {
     
 }

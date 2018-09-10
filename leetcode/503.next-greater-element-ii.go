@@ -31,6 +31,9 @@
  * The length of given array won't exceed 10000.
  * 
  */
+
+package gogo
+
 func nextGreaterElements(nums []int) []int {
     
 }

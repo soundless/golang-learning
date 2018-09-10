@@ -43,6 +43,9 @@
  * 
  * 
  */
+
+package gogo
+
 func constructRectangle(area int) []int {
     
 }

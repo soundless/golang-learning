@@ -50,6 +50,9 @@
  * this problem: Implement Trie (Prefix Tree) first.
  * 
  */
+
+package gogo
+
 func findWords(board [][]byte, words []string) []string {
     
 }

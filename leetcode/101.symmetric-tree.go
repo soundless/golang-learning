@@ -45,6 +45,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func isSymmetric(root *TreeNode) bool {
     
 }

@@ -11,6 +11,9 @@
  * Implement pow(x, n).
  * 
  */
+
+package gogo
+
 func myPow(x float64, n int) float64 {
     
 }

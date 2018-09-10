@@ -55,6 +55,9 @@
  * 
  * 
  */
+
+package gogo
+
 func canCross(stones []int) bool {
     
 }

@@ -10,6 +10,9 @@
  *
  * 
  * Given an array of citations (each citation is a non-negative integer) of a
+
+package gogo
+
  * researcher, write a function to compute the researcher's h-index.
  * 
  * 
@@ -35,6 +38,9 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func hIndex(citations []int) int {
     
 }

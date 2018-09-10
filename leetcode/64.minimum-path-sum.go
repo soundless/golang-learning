@@ -13,6 +13,9 @@
  * 
  * Note: You can only move either down or right at any point in time.
  */
+
+package gogo
+
 func minPathSum(grid [][]int) int {
     
 }

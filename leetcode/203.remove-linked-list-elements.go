@@ -25,6 +25,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func removeElements(head *ListNode, val int) *ListNode {
     
 }

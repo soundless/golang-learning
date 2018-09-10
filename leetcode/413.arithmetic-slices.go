@@ -27,6 +27,9 @@
  * ⁠   A[P], A[p + 1], ..., A[Q - 1], A[Q] is arithmetic. In particular, this
  * means that P + 1 < Q.
  * 
+
+package gogo
+
  * The function should return the number of arithmetic slices in the array
  * A. 
  * 
@@ -39,6 +42,9 @@
  * 4] itself.
  * 
  */
+
+package gogo
+
 func numberOfArithmeticSlices(A []int) int {
     
 }

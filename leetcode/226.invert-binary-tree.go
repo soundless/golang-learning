@@ -35,6 +35,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func invertTree(root *TreeNode) *TreeNode {
     
 }

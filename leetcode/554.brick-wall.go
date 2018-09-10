@@ -51,6 +51,9 @@
  * 
  * 
  */
+
+package gogo
+
 func leastBricks(wall [][]int) int {
     
 }

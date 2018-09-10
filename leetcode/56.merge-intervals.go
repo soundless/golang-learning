@@ -23,6 +23,9 @@
  *	   End   int
  * }
  */
+
+package gogo
+
 func merge(intervals []Interval) []Interval {
     
 }

@@ -32,6 +32,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findWords(words []string) []string {
     
 }

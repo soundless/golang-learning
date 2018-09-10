@@ -39,6 +39,9 @@
  * Follow up:Could you do it in one-pass, using only O(1) extra memory and
  * without modifying the value of the board?
  */
+
+package gogo
+
 func countBattleships(board [][]byte) int {
     
 }

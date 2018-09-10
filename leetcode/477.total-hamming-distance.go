@@ -36,6 +36,9 @@
  * 
  * 
  */
+
+package gogo
+
 func totalHammingDistance(nums []int) int {
     
 }

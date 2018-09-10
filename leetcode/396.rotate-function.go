@@ -1,6 +1,9 @@
 /*
  * [396] Rotate Function
  *
+
+package gogo
+
  * https://leetcode.com/problems/rotate-function
  *
  * Medium (31.88%)
@@ -14,6 +17,9 @@
  * 
  * 
  * Assume Bk to be an array obtained by rotating the array A k positions
+
+package gogo
+
  * clock-wise, we define a "rotation function" F on A as follow:
  * 
  * 
@@ -40,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func maxRotateFunction(A []int) int {
     
 }

@@ -35,6 +35,9 @@
  * 
  * 
  */
+
+package gogo
+
 func lastRemaining(n int) int {
     
 }

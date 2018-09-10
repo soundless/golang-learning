@@ -19,6 +19,9 @@
  * Return "100".
  * 
  */
+
+package gogo
+
 func addBinary(a string, b string) string {
     
 }

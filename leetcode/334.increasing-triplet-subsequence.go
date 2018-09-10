@@ -13,6 +13,9 @@
  * exists or not in the array.
  * 
  * 
+
+package gogo
+
  * Formally the function should:
  * Return true if there exists i, j, k  
  * such that arr[i] < arr[j] < arr[k] given 0 ≤ i < j < k ≤ n-1 
@@ -36,6 +39,9 @@
  * Credits:Special thanks to @DjangoUnchained for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func increasingTriplet(nums []int) bool {
     
 }

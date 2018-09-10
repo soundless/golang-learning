@@ -24,6 +24,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func reverseList(head *ListNode) *ListNode {
     
 }

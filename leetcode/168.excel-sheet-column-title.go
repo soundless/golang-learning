@@ -24,6 +24,9 @@
  * Credits:Special thanks to @ifanchu for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func convertToTitle(n int) string {
     
 }

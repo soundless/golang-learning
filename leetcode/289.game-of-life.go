@@ -35,6 +35,9 @@
  * 
  * 
  * 
+
+package gogo
+
  * Write a function to compute the next state (after one update) of the board
  * given its current state.
  * 
@@ -53,6 +56,9 @@
  * Credits:Special thanks to @jianchao.li.fighter for adding this problem and
  * creating all test cases.
  */
+
+package gogo
+
 func gameOfLife(board [][]int)  {
     
 }

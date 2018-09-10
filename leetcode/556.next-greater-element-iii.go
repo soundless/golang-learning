@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func nextGreaterElement(n int) int {
     
 }

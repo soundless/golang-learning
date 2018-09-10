@@ -29,6 +29,9 @@
  * 
  * 
  */
+
+package gogo
+
 func simplifyPath(path string) string {
     
 }

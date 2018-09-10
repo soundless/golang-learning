@@ -14,6 +14,9 @@
  * absolute difference between i and j is at most k.
  * 
  */
+
+package gogo
+
 func containsNearbyDuplicate(nums []int, k int) bool {
     
 }

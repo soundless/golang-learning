@@ -42,6 +42,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findLUSlength(strs []string) int {
     
 }

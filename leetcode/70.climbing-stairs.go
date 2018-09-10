@@ -17,6 +17,9 @@
  * Note: Given n will be a positive integer.
  * 
  */
+
+package gogo
+
 func climbStairs(n int) int {
     
 }

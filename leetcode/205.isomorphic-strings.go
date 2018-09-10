@@ -26,6 +26,9 @@
  * Note:
  * You may assume both s and t have the same length.
  */
+
+package gogo
+
 func isIsomorphic(s string, t string) bool {
     
 }

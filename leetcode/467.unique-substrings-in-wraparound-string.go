@@ -47,6 +47,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findSubstringInWraproundString(p string) int {
     
 }

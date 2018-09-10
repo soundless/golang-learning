@@ -35,6 +35,9 @@
  * move only rightward or downward in each step. 
  * 
  * 
+
+package gogo
+
  * Write a function to determine the knight's minimum initial health so that he
  * is able to rescue the princess.
  * For example, given the dungeon below, the initial health of the knight must
@@ -72,6 +75,9 @@
  * Credits:Special thanks to @stellari for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func calculateMinimumHP(dungeon [][]int) int {
     
 }

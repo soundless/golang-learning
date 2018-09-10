@@ -25,6 +25,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func deleteDuplicates(head *ListNode) *ListNode {
     
 }

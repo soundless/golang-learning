@@ -24,6 +24,9 @@
  * ...and its solution numbers marked in red.
  * 
  */
+
+package gogo
+
 func solveSudoku(board [][]byte)  {
     
 }

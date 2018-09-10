@@ -28,6 +28,9 @@
  * Credits:Special thanks to @hpplayer for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func removeInvalidParentheses(s string) []string {
     
 }

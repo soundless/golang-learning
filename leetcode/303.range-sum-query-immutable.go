@@ -24,6 +24,9 @@
  * Note:
  * 
  * You may assume that the array does not change.
+
+package gogo
+
  * There are many calls to sumRange function.
  * 
  * 
@@ -33,10 +36,16 @@ type NumArray struct {
 }
 
 
+
+package gogo
+
 func Constructor(nums []int) NumArray {
     
 }
 
+
+
+package gogo
 
 func (this *NumArray) SumRange(i int, j int) int {
     

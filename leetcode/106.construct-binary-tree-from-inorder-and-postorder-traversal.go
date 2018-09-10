@@ -22,6 +22,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func buildTree(inorder []int, postorder []int) *TreeNode {
     
 }

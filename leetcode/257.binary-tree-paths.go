@@ -39,6 +39,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func binaryTreePaths(root *TreeNode) []string {
     
 }

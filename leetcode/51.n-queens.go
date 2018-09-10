@@ -35,6 +35,9 @@
  * ]
  * 
  */
+
+package gogo
+
 func solveNQueens(n int) [][]string {
     
 }

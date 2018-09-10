@@ -28,6 +28,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func partition(head *ListNode, x int) *ListNode {
     
 }

@@ -30,6 +30,9 @@
  * Credits:Special thanks to @minglotus6 for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func wordPattern(pattern string, str string) bool {
     
 }

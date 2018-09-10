@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func reconstructQueue(people [][]int) [][]int {
     
 }

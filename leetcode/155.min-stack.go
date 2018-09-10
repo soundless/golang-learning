@@ -46,25 +46,40 @@ type MinStack struct {
 
 
 /** initialize your data structure here. */
+
+package gogo
+
 func Constructor() MinStack {
     
 }
 
+
+
+package gogo
 
 func (this *MinStack) Push(x int)  {
     
 }
 
 
+
+package gogo
+
 func (this *MinStack) Pop()  {
     
 }
 
 
+
+package gogo
+
 func (this *MinStack) Top() int {
     
 }
 
+
+
+package gogo
 
 func (this *MinStack) GetMin() int {
     

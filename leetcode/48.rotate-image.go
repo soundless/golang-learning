@@ -56,6 +56,9 @@
  * 
  * 
  */
+
+package gogo
+
 func rotate(matrix [][]int)  {
     
 }

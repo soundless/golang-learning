@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func numberOfBoomerangs(points [][]int) int {
     
 }

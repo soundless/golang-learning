@@ -44,6 +44,9 @@
  * 
  * 
  */
+
+package gogo
+
 func pacificAtlantic(matrix [][]int) [][]int {
     
 }

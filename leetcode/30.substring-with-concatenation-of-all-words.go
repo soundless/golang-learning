@@ -26,6 +26,9 @@
  * (order does not matter).
  * 
  */
+
+package gogo
+
 func findSubstring(s string, words []string) []int {
     
 }

@@ -33,6 +33,9 @@
  * 
  * 
  */
+
+package gogo
+
 func readBinaryWatch(num int) []string {
     
 }

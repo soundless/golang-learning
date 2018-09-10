@@ -24,9 +24,15 @@
  * 
  * 
  * 
+
+package gogo
+
  * Note: Do not use the eval built-in library function.
  * 
  */
+
+package gogo
+
 func calculate(s string) int {
     
 }

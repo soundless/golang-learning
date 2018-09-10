@@ -22,6 +22,9 @@
  * Credits:Special thanks to @mithmatt for adding this problem, creating the
  * above image and all test cases.
  */
+
+package gogo
+
 func computeArea(A int, B int, C int, D int, E int, F int, G int, H int) int {
     
 }

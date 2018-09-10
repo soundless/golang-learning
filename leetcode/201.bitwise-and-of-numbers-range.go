@@ -18,6 +18,9 @@
  * Credits:Special thanks to @amrsaqr for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func rangeBitwiseAnd(m int, n int) int {
     
 }

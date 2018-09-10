@@ -60,6 +60,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func deleteNode(root *TreeNode, key int) *TreeNode {
     
 }

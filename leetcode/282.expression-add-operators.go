@@ -25,6 +25,9 @@
  * Credits:Special thanks to @davidtan1890 for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func addOperators(num string, target int) []string {
     
 }

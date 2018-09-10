@@ -49,6 +49,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func isValidSerialization(preorder string) bool {
     
 }

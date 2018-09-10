@@ -17,6 +17,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func insertionSortList(head *ListNode) *ListNode {
     
 }

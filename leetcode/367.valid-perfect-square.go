@@ -8,10 +8,16 @@
  * Total Submissions: 
  * Testcase Example:  '16'
  *
+
+package gogo
+
  * Given a positive integer num, write a function which returns True if num is
  * a perfect square else False.
  * 
  * 
+
+package gogo
+
  * Note: Do not use any built-in library function such as sqrt.
  * 
  * 
@@ -32,6 +38,9 @@
  * Credits:Special thanks to @elmirap for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func isPerfectSquare(num int) bool {
     
 }

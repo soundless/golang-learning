@@ -28,6 +28,9 @@
  * Credits:Special thanks to @pbrother for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func lengthOfLIS(nums []int) int {
     
 }

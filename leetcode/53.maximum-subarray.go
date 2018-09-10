@@ -25,6 +25,9 @@
  * the divide and conquer approach, which is more subtle.
  * 
  */
+
+package gogo
+
 func maxSubArray(nums []int) int {
     
 }

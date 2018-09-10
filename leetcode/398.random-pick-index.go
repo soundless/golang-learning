@@ -39,10 +39,16 @@ type Solution struct {
 }
 
 
+
+package gogo
+
 func Constructor(nums []int) Solution {
     
 }
 
+
+
+package gogo
 
 func (this *Solution) Pick(target int) int {
     

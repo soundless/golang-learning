@@ -43,6 +43,9 @@
  * Credits:Special thanks to @vinod23 for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func canMeasureWater(x int, y int, z int) bool {
     
 }

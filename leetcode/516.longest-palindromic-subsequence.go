@@ -37,6 +37,9 @@
  * One possible longest palindromic subsequence is "bb".
  * 
  */
+
+package gogo
+
 func longestPalindromeSubseq(s string) int {
     
 }

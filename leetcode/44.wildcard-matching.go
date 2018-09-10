@@ -16,6 +16,9 @@
  * 
  * The matching should cover the entire input string (not partial).
  * 
+
+package gogo
+
  * The function prototype should be:
  * bool isMatch(const char *s, const char *p)
  * 
@@ -29,6 +32,9 @@
  * isMatch("aab", "c*a*b") → false
  * 
  */
+
+package gogo
+
 func isMatch(s string, p string) bool {
     
 }

@@ -86,6 +86,9 @@
  * 
  * 
  */
+
+package gogo
+
 func isRectangleCover(rectangles [][]int) bool {
     
 }

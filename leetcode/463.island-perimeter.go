@@ -30,6 +30,9 @@
  * 
  * 
  */
+
+package gogo
+
 func islandPerimeter(grid [][]int) int {
     
 }

@@ -36,6 +36,9 @@
  * Follow up:
  * Could you solve it in linear time?
  */
+
+package gogo
+
 func maxSlidingWindow(nums []int, k int) []int {
     
 }

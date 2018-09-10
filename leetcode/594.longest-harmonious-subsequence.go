@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findLHS(nums []int) int {
     
 }

@@ -44,6 +44,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func getMinimumDifference(root *TreeNode) int {
     
 }

@@ -20,6 +20,9 @@
  * Credits:Special thanks to @memoryless for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func countNumbersWithUniqueDigits(n int) int {
     
 }

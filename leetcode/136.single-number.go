@@ -17,6 +17,9 @@
  * it without using extra memory?
  * 
  */
+
+package gogo
+
 func singleNumber(nums []int) int {
     
 }

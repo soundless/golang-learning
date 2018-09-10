@@ -27,6 +27,9 @@
  * Credits:Special thanks to @Freezen for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func rotate(nums []int, k int)  {
     
 }

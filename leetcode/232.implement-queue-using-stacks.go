@@ -42,30 +42,45 @@ type MyQueue struct {
 
 
 /** Initialize your data structure here. */
+
+package gogo
+
 func Constructor() MyQueue {
     
 }
 
 
 /** Push element x to the back of queue. */
+
+package gogo
+
 func (this *MyQueue) Push(x int)  {
     
 }
 
 
 /** Removes the element from in front of queue and returns that element. */
+
+package gogo
+
 func (this *MyQueue) Pop() int {
     
 }
 
 
 /** Get the front element. */
+
+package gogo
+
 func (this *MyQueue) Peek() int {
     
 }
 
 
 /** Returns whether the queue is empty. */
+
+package gogo
+
 func (this *MyQueue) Empty() bool {
     
 }

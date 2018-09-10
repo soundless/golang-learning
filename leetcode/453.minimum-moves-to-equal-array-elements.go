@@ -27,6 +27,9 @@
  * 
  * 
  */
+
+package gogo
+
 func minMoves(nums []int) int {
     
 }

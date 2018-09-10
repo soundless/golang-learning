@@ -25,6 +25,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func isBalanced(root *TreeNode) bool {
     
 }

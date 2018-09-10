@@ -22,6 +22,9 @@
  * 
  * Note: All inputs will be in lower-case.
  */
+
+package gogo
+
 func groupAnagrams(strs []string) [][]string {
     
 }

@@ -24,6 +24,9 @@
  * What is the minimum candies you must give?
  * 
  */
+
+package gogo
+
 func candy(ratings []int) int {
     
 }

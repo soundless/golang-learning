@@ -45,30 +45,45 @@ type MyStack struct {
 
 
 /** Initialize your data structure here. */
+
+package gogo
+
 func Constructor() MyStack {
     
 }
 
 
 /** Push element x onto stack. */
+
+package gogo
+
 func (this *MyStack) Push(x int)  {
     
 }
 
 
 /** Removes the element on top of the stack and returns that element. */
+
+package gogo
+
 func (this *MyStack) Pop() int {
     
 }
 
 
 /** Get the top element. */
+
+package gogo
+
 func (this *MyStack) Top() int {
     
 }
 
 
 /** Returns whether the stack is empty. */
+
+package gogo
+
 func (this *MyStack) Empty() bool {
     
 }

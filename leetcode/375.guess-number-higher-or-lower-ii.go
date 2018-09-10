@@ -39,6 +39,9 @@
  * Credits:Special thanks to @agave and @StefanPochmann for adding this problem
  * and creating all test cases.
  */
+
+package gogo
+
 func getMoneyAmount(n int) int {
     
 }

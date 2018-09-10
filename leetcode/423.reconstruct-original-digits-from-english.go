@@ -37,6 +37,9 @@
  * 
  * 
  */
+
+package gogo
+
 func originalDigits(s string) string {
     
 }

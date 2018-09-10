@@ -54,6 +54,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func findBottomLeftValue(root *TreeNode) int {
     
 }

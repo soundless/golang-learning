@@ -22,6 +22,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func rotateRight(head *ListNode, k int) *ListNode {
     
 }

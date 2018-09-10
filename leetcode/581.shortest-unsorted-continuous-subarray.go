@@ -30,6 +30,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findUnsortedSubarray(nums []int) int {
     
 }

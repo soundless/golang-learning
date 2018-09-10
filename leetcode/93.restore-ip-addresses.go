@@ -19,6 +19,9 @@
  * return ["255.255.11.135", "255.255.111.35"]. (Order does not matter)
  * 
  */
+
+package gogo
+
 func restoreIpAddresses(s string) []string {
     
 }

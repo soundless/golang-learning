@@ -41,6 +41,9 @@
  * You may assume k is always valid, ie: k is always smaller than input array's
  * size for non-empty array.
  */
+
+package gogo
+
 func medianSlidingWindow(nums []int, k int) []float64 {
     
 }

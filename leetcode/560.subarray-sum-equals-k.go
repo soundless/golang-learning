@@ -27,6 +27,9 @@
  * 
  * 
  */
+
+package gogo
+
 func subarraySum(nums []int, k int) int {
     
 }

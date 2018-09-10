@@ -8,6 +8,9 @@
  * Total Submissions: 
  * Testcase Example:  '[[1,2],[3,4]]\n1\n4'
  *
+
+package gogo
+
  * In MATLAB, there is a very useful function called 'reshape', which can
  * reshape a matrix into a new one with different size but keep its original
  * data.
@@ -63,6 +66,9 @@
  * 
  * 
  */
+
+package gogo
+
 func matrixReshape(nums [][]int, r int, c int) [][]int {
     
 }

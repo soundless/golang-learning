@@ -43,6 +43,9 @@
  * 
  * 
  */
+
+package gogo
+
 func checkRecord(s string) bool {
     
 }

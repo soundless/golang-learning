@@ -23,6 +23,9 @@
  * you can Russian doll is 3 ([2,3] => [5,4] => [6,7]).
  * 
  */
+
+package gogo
+
 func maxEnvelopes(envelopes [][]int) int {
     
 }

@@ -32,6 +32,9 @@
  * For now, the judge is able to judge based on one instance of gray code
  * sequence. Sorry about that.
  */
+
+package gogo
+
 func grayCode(n int) []int {
     
 }

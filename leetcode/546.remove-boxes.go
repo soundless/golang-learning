@@ -40,6 +40,9 @@
  * 
  * 
  */
+
+package gogo
+
 func removeBoxes(boxes []int) int {
     
 }

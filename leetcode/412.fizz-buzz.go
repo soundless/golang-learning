@@ -40,6 +40,9 @@
  * 
  * 
  */
+
+package gogo
+
 func fizzBuzz(n int) []string {
     
 }

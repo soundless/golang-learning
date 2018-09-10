@@ -34,6 +34,9 @@
  * 
  * Given target = 3, return true.
  */
+
+package gogo
+
 func searchMatrix(matrix [][]int, target int) bool {
     
 }

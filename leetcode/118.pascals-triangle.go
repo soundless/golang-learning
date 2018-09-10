@@ -24,6 +24,9 @@
  * 
  * 
  */
+
+package gogo
+
 func generate(numRows int) [][]int {
     
 }

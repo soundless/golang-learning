@@ -45,6 +45,9 @@
  * 
  * 
  */
+
+package gogo
+
 func thirdMax(nums []int) int {
     
 }

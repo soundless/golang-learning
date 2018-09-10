@@ -37,6 +37,9 @@
  *     Next *ListNode
  * }
  */
+
+package gogo
+
 func oddEvenList(head *ListNode) *ListNode {
     
 }

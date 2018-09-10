@@ -54,6 +54,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func flatten(root *TreeNode)  {
     
 }

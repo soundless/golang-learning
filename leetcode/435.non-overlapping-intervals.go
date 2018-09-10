@@ -62,6 +62,9 @@
  *	   End   int
  * }
  */
+
+package gogo
+
 func eraseOverlapIntervals(intervals []Interval) int {
     
 }

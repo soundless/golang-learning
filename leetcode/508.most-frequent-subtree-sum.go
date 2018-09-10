@@ -50,6 +50,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func findFrequentTreeSum(root *TreeNode) []int {
     
 }

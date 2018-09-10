@@ -27,6 +27,9 @@
  * 1,1,5 → 1,5,1
  * 
  */
+
+package gogo
+
 func nextPermutation(nums []int)  {
     
 }

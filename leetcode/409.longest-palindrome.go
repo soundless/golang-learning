@@ -31,6 +31,9 @@
  * 
  * 
  */
+
+package gogo
+
 func longestPalindrome(s string) int {
     
 }

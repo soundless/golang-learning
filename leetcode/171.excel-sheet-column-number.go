@@ -24,6 +24,9 @@
  * Credits:Special thanks to @ts for adding this problem and creating all test
  * cases.
  */
+
+package gogo
+
 func titleToNumber(s string) int {
     
 }

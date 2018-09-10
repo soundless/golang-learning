@@ -40,6 +40,9 @@
  * 
  * 
  */
+
+package gogo
+
 func canPartition(nums []int) bool {
     
 }

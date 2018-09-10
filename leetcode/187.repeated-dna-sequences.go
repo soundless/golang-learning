@@ -13,6 +13,9 @@
  * T, for example: "ACGAATTCCG". When studying DNA, it is sometimes useful to
  * identify repeated sequences within the DNA.
  * 
+
+package gogo
+
  * Write a function to find all the 10-letter-long sequences (substrings) that
  * occur more than once in a DNA molecule.
  * 
@@ -25,6 +28,9 @@
  * ["AAAAACCCCC", "CCCCCAAAAA"].
  * 
  */
+
+package gogo
+
 func findRepeatedDnaSequences(s string) []string {
     
 }

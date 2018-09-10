@@ -18,6 +18,9 @@
  *     Y int
  * }
  */
+
+package gogo
+
 func maxPoints(points []Point) int {
     
 }

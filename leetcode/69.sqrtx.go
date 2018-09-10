@@ -12,6 +12,9 @@
  * 
  * Compute and return the square root of x.
  */
+
+package gogo
+
 func mySqrt(x int) int {
     
 }

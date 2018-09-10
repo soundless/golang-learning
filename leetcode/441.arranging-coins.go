@@ -43,6 +43,9 @@
  * 
  * 
  */
+
+package gogo
+
 func arrangeCoins(n int) int {
     
 }

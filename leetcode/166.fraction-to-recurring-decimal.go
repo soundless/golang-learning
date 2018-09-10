@@ -25,6 +25,9 @@
  * Credits:Special thanks to @Shangrila for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func fractionToDecimal(numerator int, denominator int) string {
     
 }

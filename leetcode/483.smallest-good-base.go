@@ -44,6 +44,9 @@
  * 
  * 
  */
+
+package gogo
+
 func smallestGoodBase(n string) string {
     
 }

@@ -28,6 +28,9 @@
  * sequence A[P0], A[P1], ..., A[Pk-1], A[Pk] is arithmetic. In particular,
  * this means that k ≥ 2.
  * 
+
+package gogo
+
  * The function should return the number of arithmetic subsequence slices in
  * the array A. 
  * 
@@ -53,6 +56,9 @@
  * 
  * 
  */
+
+package gogo
+
 func numberOfArithmeticSlices(A []int) int {
     
 }

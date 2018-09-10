@@ -40,6 +40,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findNthDigit(n int) int {
     
 }

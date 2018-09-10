@@ -26,6 +26,9 @@
  * 
  * Note: Given n will be between 1 and 9 inclusive.
  */
+
+package gogo
+
 func getPermutation(n int, k int) string {
     
 }

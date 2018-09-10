@@ -21,6 +21,9 @@
  *     Right *TreeNode
  * }
  */
+
+package gogo
+
 func maxDepth(root *TreeNode) int {
     
 }

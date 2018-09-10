@@ -32,6 +32,9 @@
  * Note: 
  * You may assume k is always valid, 1 ≤ k ≤ n2.
  */
+
+package gogo
+
 func kthSmallest(matrix [][]int, k int) int {
     
 }

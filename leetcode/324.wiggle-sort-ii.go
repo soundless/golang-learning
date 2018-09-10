@@ -34,6 +34,9 @@
  * Credits:Special thanks to @dietpepsi for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func wiggleSort(nums []int)  {
     
 }

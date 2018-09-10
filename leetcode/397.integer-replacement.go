@@ -53,6 +53,9 @@
  * 
  * 
  */
+
+package gogo
+
 func integerReplacement(n int) int {
     
 }

@@ -20,6 +20,9 @@
  * is "()()", which has length = 4.
  * 
  */
+
+package gogo
+
 func longestValidParentheses(s string) int {
     
 }

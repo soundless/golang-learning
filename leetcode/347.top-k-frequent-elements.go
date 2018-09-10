@@ -22,6 +22,9 @@
  * the array's size.
  * 
  */
+
+package gogo
+
 func topKFrequent(nums []int, k int) []int {
     
 }

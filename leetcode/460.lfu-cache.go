@@ -47,15 +47,24 @@ type LFUCache struct {
 }
 
 
+
+package gogo
+
 func Constructor(capacity int) LFUCache {
     
 }
 
 
+
+package gogo
+
 func (this *LFUCache) Get(key int) int {
     
 }
 
+
+
+package gogo
 
 func (this *LFUCache) Put(key int, value int)  {
     

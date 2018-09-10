@@ -15,6 +15,9 @@
  * k.
  * 
  */
+
+package gogo
+
 func containsNearbyAlmostDuplicate(nums []int, k int, t int) bool {
     
 }

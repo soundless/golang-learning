@@ -51,6 +51,9 @@
  * 
  * 
  */
+
+package gogo
+
 func canFinish(numCourses int, prerequisites [][]int) bool {
     
 }

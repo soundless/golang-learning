@@ -42,6 +42,9 @@
  * 
  * 
  */
+
+package gogo
+
 func optimalDivision(nums []int) string {
     
 }

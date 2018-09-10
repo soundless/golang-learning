@@ -40,6 +40,9 @@
  * Credits:Special thanks to @pbrother for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func combinationSum4(nums []int, target int) int {
     
 }

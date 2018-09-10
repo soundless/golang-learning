@@ -18,6 +18,9 @@
  * Credits:Special thanks to @fujiaozhu for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func getSum(a int, b int) int {
     
 }

@@ -25,8 +25,14 @@
  * Hint: 1 bull and 3 cows. (The bull is 8, the cows are 0, 1 and 7.)
  * 
  * 
+
+package gogo
+
  * Write a function to return a hint according to the secret number and
  * friend's guess, use A to indicate the bulls and B to indicate the cows. In
+
+package gogo
+
  * the above example, your function should return "1A3B". 
  * 
  * Please note that both secret number and friend's guess may contain duplicate
@@ -36,6 +42,9 @@
  * Friend's guess: "0111"
  * 
  * In this case, the 1st 1 in friend's guess is a bull, the 2nd or 3rd 1 is a
+
+package gogo
+
  * cow, and your function should return "1A1B".
  * 
  * 
@@ -45,6 +54,9 @@
  * Credits:Special thanks to @jeantimex for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func getHint(secret string, guess string) string {
     
 }

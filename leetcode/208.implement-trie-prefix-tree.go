@@ -23,24 +23,36 @@ type Trie struct {
 
 
 /** Initialize your data structure here. */
+
+package gogo
+
 func Constructor() Trie {
     
 }
 
 
 /** Inserts a word into the trie. */
+
+package gogo
+
 func (this *Trie) Insert(word string)  {
     
 }
 
 
 /** Returns if the word is in the trie. */
+
+package gogo
+
 func (this *Trie) Search(word string) bool {
     
 }
 
 
 /** Returns if there is any word in the trie that starts with the given prefix. */
+
+package gogo
+
 func (this *Trie) StartsWith(prefix string) bool {
     
 }

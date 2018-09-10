@@ -28,6 +28,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findMaxConsecutiveOnes(nums []int) int {
     
 }

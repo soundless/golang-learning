@@ -28,6 +28,9 @@
  * The input will be in range of [-1e7, 1e7].
  * 
  */
+
+package gogo
+
 func convertToBase7(num int) string {
     
 }

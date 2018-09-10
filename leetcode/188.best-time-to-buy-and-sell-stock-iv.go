@@ -21,6 +21,9 @@
  * Credits:Special thanks to @Freezen for adding this problem and creating all
  * test cases.
  */
+
+package gogo
+
 func maxProfit(k int, prices []int) int {
     
 }

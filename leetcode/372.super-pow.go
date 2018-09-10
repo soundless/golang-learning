@@ -34,6 +34,9 @@
  * Credits:Special thanks to @Stomach_ache for adding this problem and creating
  * all test cases.
  */
+
+package gogo
+
 func superPow(a int, b []int) int {
     
 }

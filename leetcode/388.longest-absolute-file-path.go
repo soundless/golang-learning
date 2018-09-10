@@ -60,6 +60,9 @@
  * Notice that a/aa/aaa/file1.txt is not the longest file path, if there is
  * another path aaaaaaaaaaaaaaaaaaaaa/sth.png.
  */
+
+package gogo
+
 func lengthLongestPath(input string) int {
     
 }

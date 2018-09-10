@@ -33,6 +33,9 @@
  * 
  * 
  */
+
+package gogo
+
 func hammingDistance(x int, y int) int {
     
 }

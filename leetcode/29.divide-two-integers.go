@@ -16,6 +16,9 @@
  * If it is overflow, return MAX_INT.
  * 
  */
+
+package gogo
+
 func divide(dividend int, divisor int) int {
     
 }

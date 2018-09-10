@@ -31,6 +31,9 @@
  * 
  * 
  */
+
+package gogo
+
 func arrayPairSum(nums []int) int {
     
 }

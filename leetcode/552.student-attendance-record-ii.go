@@ -46,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func checkRecord(n int) int {
     
 }

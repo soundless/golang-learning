@@ -46,6 +46,9 @@
  * 
  * 
  */
+
+package gogo
+
 func findAnagrams(s string, p string) []int {
     
 }

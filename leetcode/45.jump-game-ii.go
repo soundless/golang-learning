@@ -33,6 +33,9 @@
  * Note:
  * You can assume that you can always reach the last index.
  */
+
+package gogo
+
 func jump(nums []int) int {
     
 }
